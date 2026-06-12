@@ -61,7 +61,7 @@ This project helps to:
 
 ---
 
-![LoggedGDPpercapita&Ladder score](Logged GDP per capita & Ladder score.png)
+![LoggedGDPpercapita&Ladder score](https://github.com/NikitaaMoon/Python_Pandas_World_Happiness_Report_2021_Project/blob/main/Logged%20GDP%20per%20capita%20%26%20Ladder%20score.png)
 
 ---
 
