@@ -61,6 +61,10 @@ This project helps to:
 
 ---
 
+![LoggedGDPpercapita&Ladder score](Logged GDP per capita & Ladder score.png)
+
+---
+
 ## 📈 KEY RESULTS
 
 ### Insights Discovered
